@@ -9,6 +9,13 @@ $ ls -al
 
 https://k9w.github.io/hello-world
 
+At the moment, this site is built with Jekyll and the hacker theme on its own gh-pages branch. That last part I did not intend and want to merge it into hello-world's master branch.
+
+My user profile site on github pages is at:
+https://k9w.github.io
+
+----
+
 You can use the [editor on GitHub](https://github.com/k9w/hello-world/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
